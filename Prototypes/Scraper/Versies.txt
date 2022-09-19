@@ -1,0 +1,8 @@
+Gemaakt met Python 3.9.9
+
+Packages gebruikt:
+	Beautifulsoup 4
+		pip install beautifulsoup4
+	Requests
+		pip install requests
+	

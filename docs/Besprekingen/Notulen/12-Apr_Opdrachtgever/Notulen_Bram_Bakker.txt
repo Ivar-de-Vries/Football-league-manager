@@ -1,0 +1,39 @@
+Waarom wil je de database? En waarvoor? erg onhandig om alles op te moeten schrijven, is veel werk, en later wil je er ook statistieken uit halen en gegevens. Makkelijker informatie opvragen.
+
+API moet wel om gegevens op te vragen
+
+Wat voor bedrijf is nutmeg?  er zijn soortgelijke bedrijven, die verkopen info aan organisaties, datacollectie bedrijf voetbalindustrie
+
+De database die gebruikt gaat worden is MsSQL
+
+Gegevens bij geven mag toegevoegd worden in overleg, kans dat het antwoord nee is, is klein
+
+Hoe komen we aan de gegevens  er staan 2 linkjes in de opdracht voor data, overtypen van andere sites mag ook, API mag ook
+
+Gegevens van eerdere jaren moeten ook opgeslagen worden
+
+Wat zijn parallelle competities  structuur van de competities zijn anders, gegevens van de competities zijn verder hetzelfde. Promotie en degradatie moeten we bijhouden, nacompetitie is ook pas voor later
+
+Wie is verantwoordelijk voor git en jira  is aan ons om dat in te delen
+
+Documenten moet in een docs map, in md  daarin komen de notulen pdm cdm ook in
+
+PvA 
+-	vast overleg moment niet persé, OG wordt graag uitgenodigd aan het gesprek, per iteratie een gesprek is geen gek idee / sprint review
+o	Scrum werkt goed tijdens rup
+-	Aan het eind van iedere iteratie de OG uitnodigen op gesprek voor een sprint review
+
+-	Hoe snel kunnen wij reactie verwachten op mails  24 uur (van 09:00  09:00, vakantie en weekend kan langer duren)
+
+-	Andere locaties moeten we kunnen opslaan bij wedstrijden
+
+
+Er mag niet restreeks in de sql data worden gezeten, doe dat in MongoDB JSON, bij opvragen vragen we dingen uit MongoDB op, MongoDB is de API
+
+Historie bijhouden (updates die gedaan worden/inserts etc, wie wat en wanneer) history table
+Triggers en SP moeten ge-unit test zijn
+Europese knock out competities zijn belangrijker dan competities van andere landen
+Andere landen competities mogen ook later
+EK/WK hoeven we verder niet te onthouden.
+
+Toeschouwers en publiek moeten we ook bijhouden.
